@@ -1,0 +1,1 @@
+A simple app that has 2 screens - a login screen with email + password, and a home screen with a logout button
